@@ -1,11 +1,11 @@
-#include <iostream>  // Подключаем библиотеку для ввода/вывода
+#include <iostream> 
 
-using namespace std; // Используем стандартное пространство имен
+using namespace std; 
 
 class LastDigitOfPower {
 private:
-    int Osnovanie;  // Поле для хранения основания степени
-    int Stepen;     // Поле для хранения показателя степени
+    int Osnovanie; 
+    int Stepen;     
 
 public:
     // Конструктор класса, инициализирует поля Osnovanie и Stepen
